@@ -1,64 +1,70 @@
-🚀 Flexibble — Creative Portfolio Platform (Next.js 13/14 App Router)
-<div align="center"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" /> </div> <br />
+# 🚀 Flexibble — Creative Portfolio Platform (Next.js 13/14 App Router)
 
-Flexibble es una plataforma creativa full-stack para compartir y descubrir proyectos de diseño y desarrollo.
-Construida con Next.js 13/14 (App Router), arquitectura modular, autenticación segura y un panel de usuario estilo portafolio.
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+</div>
 
-Ideal para demostrar experiencia real en Next.js, server components, server actions, GraphQL, autenticación y subida de imágenes.
+---
 
-📌 Características principales
-🔐 Autenticación
+Flexibble es una **plataforma creativa full-stack** para compartir y descubrir proyectos de diseño y desarrollo.  
+Está construida con **Next.js 13/14 (App Router)**, una arquitectura modular, autenticación segura y un panel de usuario estilo portafolio.
 
-Login con Google OAuth
+Es un proyecto ideal para demostrar experiencia real en:
 
-Manejo de sesiones con NextAuth
+- Next.js (App Router)
+- Server Components y Server Actions
+- GraphQL
+- Autenticación
+- Subida y gestión de imágenes
 
-Tokens JWT seguros
+---
 
-🎨 Gestión de Proyectos
+## 📌 Características principales
 
-Crear, editar y eliminar proyectos
+### 🔐 Autenticación
 
-Subida de imágenes a Cloudinary
+- Login con **Google OAuth**
+- Manejo de sesiones con **NextAuth**
+- Tokens **JWT** para autenticación segura
 
-Vista de detalles con enlaces a repositorio y live demo
+### 🎨 Gestión de proyectos
 
-Paginación e infinit scrolling
+- Crear, editar y eliminar proyectos
+- Subida de imágenes a **Cloudinary**
+- Vista de detalle con enlaces a repositorio y live demo
+- Paginación e *infinite scrolling* para explorar proyectos
 
-👤 Perfil de Usuario estilo portafolio
+### 👤 Perfil de usuario estilo portafolio
 
-Avatar, bio, enlaces externos
+- Avatar, biografía y enlaces externos
+- Listado de proyectos creados por el usuario
+- Vista tipo **portfolio page** para mostrar el trabajo de forma profesional
 
-Proyectos creados por el usuario
+### 🔎 Navegación y experiencia de usuario
 
-Vista tipo “portfolio page”
+- Filtros por categoría
+- Repositorio organizado en componentes reutilizables
+- **UI moderna** basada en Tailwind CSS y Headless UI
 
-🔎 Navegación y Experiencia de Usuario
+### 🧩 Backend integrado
 
-Filtros por categoría
+- API GraphQL para la gestión de datos
+- *Mutations* para crear, editar y borrar proyectos
+- *Queries* optimizadas para paginación y páginas de perfil
 
-Repositorio estructurado por componentes reutilizables
+---
 
-UI moderna con Tailwind + Headless UI
+## 🛠️ Tech Stack
 
-🧩 Backend integrado
-
-GraphQL API para gestión de datos
-
-Mutations para crear/editar/borrar proyectos
-
-Queries optimizadas para paginación y perfiles
-
-🛠️ Tech Stack
-
-Next.js 13/14 — App Router
-
-TypeScript
-
-Tailwind CSS
-
-NextAuth
-
-JWT
-
-GraphQL
+- **Next.js 13/14 — App Router**
+- **TypeScript**
+- **Tailwind CSS**
+- **NextAuth**
+- **JWT**
+- **GraphQL**
+- **Cloudinary**
+- **Headless UI**
